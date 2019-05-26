@@ -1,4 +1,4 @@
-package com.xiaodianbidao.firstspringboot;
+package com.xiaodianbidao.firstspringboot.startboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

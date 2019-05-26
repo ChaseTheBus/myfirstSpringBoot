@@ -1,4 +1,4 @@
-package com.xiaodianbidao.firstspringboot;
+package com.xiaodianbidao.firstspringboot.startboot;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

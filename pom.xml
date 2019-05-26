@@ -8,10 +8,10 @@
         <version>2.1.4.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.xiaodianbidao</groupId>
-    <artifactId>firstspringboot</artifactId>
+    <groupId>com.xiaodianbidao.firstspringboot</groupId>
+    <artifactId>startboot</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>firstspringboot</name>
+    <name>startboot</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
