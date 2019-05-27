@@ -10,8 +10,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.xiaodianbidao.firstspringboot</groupId>
+
     <artifactId>test_api_impl</artifactId>
-<dependencyManagement>
     <dependencies>
         <dependency>
             <groupId>com.xiaodianbidao.firstspringboot</groupId>
@@ -19,7 +19,15 @@
             <version>${project.version}</version>
         </dependency>
 
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-jdbc</artifactId>
+        </dependency>
+
     </dependencies>
-</dependencyManagement>
 
 </project>

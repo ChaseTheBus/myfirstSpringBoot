@@ -1,0 +1,4 @@
+com/xiaodianbidao/firstspringboot/api/dto/MemberDto.class
+com/xiaodianbidao/firstspringboot/api/service/MemberService.class
+com/xiaodianbidao/firstspringboot/api/domain/Member.class
+com/xiaodianbidao/firstspringboot/api/domain/BaseDomain.class
